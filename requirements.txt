@@ -1,0 +1,6 @@
+atproto-client
+atproto-firehose
+atproto
+rich
+psutil
+humanize
